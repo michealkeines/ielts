@@ -70,6 +70,56 @@ like unfortunaly, arguably, undoubtedly, naturally, importantly
 
 valley
 
+Think of words that typically go together or 'collocate'. There are many different types of collocation: adjective + noun, e.g. minor change; adverb + verb, e.g. particularly interested; verb + noun, e.g. make progress. There are many collocations and it's a good idea to note the most common collocations of a new word when you learn it.
+
+Remember that you usually don't add a plural noun in front of another noun, e.g. the cars initiative isn't possible, but the car initiative is.
+
+After a you can't add a word that starts with a vowel sound.
+
+noun can be coutnable uncountable singualr or plural
+
+compound noun is when we have noun + noun eg: bank account
+
+it can also be in adjective + noung eg: software
+
+verb+perpostion = check-out
+
+![[Pasted image 20221117082209.png]]
+
+
+close compunds
+
+open compunds
+
+![[Pasted image 20221117082303.png]]
+
+![[Pasted image 20221117082511.png]]
+
+we can have serveral adjective for a noun in a senttence
+
+![[Pasted image 20221117083012.png]]
+
+
+we can have two nouns and both will have separate verbs
+
+![[Pasted image 20221117083423.png]]
+
+we can have multiple verabe near and alos mutiples nouns
+
+dont confuse verbs with adverb
+
+dont confure prepositions with verb
+
+![[Pasted image 20221117090419.png]]
+
+adjecttive is an attrivute the noun
+adverrb describe the verb
+
+preposition
+
+usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause, as in ‘the man on the platform’, ‘she arrived after dinner’, ‘what did you do it for ?’.
+
+
 
 
 
