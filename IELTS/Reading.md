@@ -119,8 +119,19 @@ preposition
 
 usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause, as in ‘the man on the platform’, ‘she arrived after dinner’, ‘what did you do it for ?’.
 
+a statem can only have nouns, it is valid
+
+![[Pasted image 20221118063138.png]]
 
 
+referencing words
+
+![[Pasted image 20221118073220.png]]
+
+
+when your scanning look fro paraphrasing and synonyyms
+
+Remember, when you answer reading questions, don't look through the reading passage for words present in the questions. Look for phrases in the text with the same meaning as the information in the question. In other words, look out for paraphrasing and synonyms.
 
 
 
