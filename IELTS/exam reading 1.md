@@ -162,3 +162,135 @@ exam 4
 
 33
 
+Exam 5
+
+1. A
+2. A
+3. B
+4. C
+5. C -
+6. runways and taxways
+7. sand -
+8. granite
+9. stiff clay
+10. lantau island
+11. sea wall
+12. rock voids -
+13. geotextile
+14. 8 define of medical tems
+15. 2 holictic approch
+16. 4 helath life styple approch
+17. 3 impofrabce of envi fakcts -
+18. 1 conferecae - 
+19. 1946
+20. wealthy memebs
+21. social, enomic, evironmal foucs
+22. 1970s
+23. not given
+24. true
+25. True -
+26. False
+27. no giiven
+28. CH
+29. SH -
+30. SH -
+31. SH
+32. MC -
+33. MC
+34. SH - 
+35. HTK - 
+36. not followers
+37. True
+38. False-
+39. false-
+40. False
+
+28
+
+examp 6
+
+1. D. -
+2. A
+3. C
+4. B
+5. B
+6. Benchmarking
+7. service delivery
+8. performance measure
+9. productivity
+10. Take Charge
+11. feedback
+12. reviewed -
+13. 30 days
+14. communication faliure -
+15. avoidance -
+16. sales literature
+17. Eastern Europe
+18. C
+19. B
+20. C
+21. Industrial training schemes
+22. part-time language courses
+23. technical glossaries
+24. own translatino services
+25. D
+26. A
+27. 4 - 
+28. 1
+29 5
+30 6
+31. D
+32. C
+33. F
+34. G
+35. no
+36. yes
+37. not given -
+38. not given -
+39. not fiven
+40.yes
+
+33
+
+1. not iven -
+2. not viven -
+3. true -
+4. true
+5. not fiven
+6. true -
+7. true-
+8. local business
+9. working shcdule
+10. excesive
+11. day offs-
+12. 20%
+13. coomunication
+14. C
+15. F
+16. E
+17. H
+18. A
+19. D
+20. not given
+21. fasle 
+22. true -
+23. true
+24. true
+25. true
+26. fasle
+27. 4
+28. 7
+29. 5 -
+30. 3
+31. 6 -
+32. 1
+33. 10
+34. B
+35. B
+36. E
+37. A
+38. B
+39. D
+40. E
+
+31
