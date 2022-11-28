@@ -294,3 +294,91 @@ examp 6
 40. E
 
 31
+
+exam 8
+
+1. True
+2. not fiven -
+3. True
+4. notgiven
+5. False
+6. not given
+7. B
+8. B
+9. C
+10. Honest yand openess
+11. consumers
+12. thical spenders -
+13. social record
+14. D
+15. B
+16. B -
+17. C
+18. true -
+19. ture
+20. true
+21. not ifven
+22. F
+23. E -- 
+24. J
+25. I
+26. C
+27. apollo program
+28. next century or 2100
+29. 7000
+30. disease
+31. muscular dystropy
+32. cystic finrosis
+33. D
+34. C
+35. B
+36. C
+37. C -
+38. B
+39. A
+40. A
+
+34
+
+1. 4
+2. 1
+3. 5
+4. 7
+5. A -
+6. D
+7. A
+8. A
+9. B
+10. E
+11. B
+12. E
+13. H -
+14. G
+15. B
+16. A
+17. D - 
+18. True -
+19. not given
+20. not givne -
+21. not given
+22. E
+23. G
+24. A -
+25. A
+26. B
+27. B
+28. C
+29. 4
+30. 10 -
+31. 3
+32. 5
+33. 7 -
+34. B
+35. F
+36. yes
+37. yes -
+38. not given
+39. yes
+40. B - 
+
+30
