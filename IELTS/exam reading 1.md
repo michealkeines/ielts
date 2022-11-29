@@ -382,3 +382,47 @@ exam 8
 40. B - 
 
 30
+
+1. not given
+2. False
+3. True
+4. True
+5. not given-
+6. spanish-
+7. Fremdcj
+8. softh african vall rotl-
+9. Cool -
+10. early spring
+11. 2-5
+12. warmer -
+13. south african tunnerllers
+14. 5
+15. 7
+16. 2
+17. 6 -
+18. 1
+19. G
+20. C
+21. F 
+22. B
+23. A -
+24. D -
+25. A -
+26. A - 
+27. C -
+28. A
+29. tues -
+30. true
+31. true
+32. false -
+33. true
+34. not given -
+35. false
+36. role sign
+37. ritual
+38. focul eprson
+39. role set
+40. C
+
+26, i just wront the answers wrong its 29
+
