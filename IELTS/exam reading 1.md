@@ -426,3 +426,46 @@ exam 8
 
 26, i just wront the answers wrong its 29
 
+1. False
+2. False
+3. False
+4. not given
+5. True
+6. True
+7. TS
+8. AT
+9. FA
+10. AT
+11. FA
+12. SE
+13. 5
+14. 1
+15. 6
+16. true -
+17. true
+18. not given
+19. true -
+20. not given -
+21. true
+22. C
+23. A
+24. B
+25. B -
+26. A
+27. D -
+28. B
+29. not given
+30. true -
+31. false
+32. not given-
+33. true
+34. false -
+35. E 
+36. B 
+37. D 
+38. B
+39. C -
+40. F
+
+31
+
