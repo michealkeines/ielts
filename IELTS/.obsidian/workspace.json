@@ -18,105 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7e5f9500a6b1e7f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing bar chart.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d67fefc9532551f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing pie-chart.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38430bc95e478f6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing task 1 process question.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "600268cc3a3f5e55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing pie-chart.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1940bba3d2e1aac9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing pie-chart.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0fb37ae89941355",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing task 1 process question.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b7cb38bbaf9c5d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing ielts table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b043bfc2761c4295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exam reading 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing ielts table.md",
+                "file": "exam reading 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writing ielts table.md",
+                "file": "exam reading 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing ielts table.md"
+                "file": "exam reading 1.md"
               }
             }
           }
@@ -233,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1b7cb38bbaf9c5d7",
+  "active": "019d8fdc21647800",
   "lastOpenFiles": [
+    "writing ielts table.md",
     "writing task 1 process question.md",
     "writing maps.md",
     "writing pie-chart.md",
@@ -243,7 +147,6 @@
     "writing bar chart.md",
     "exam listening.md",
     "exam reading 1.md",
-    "Reading.md",
-    "Listening.md"
+    "Reading.md"
   ]
 }

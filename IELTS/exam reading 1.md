@@ -469,3 +469,90 @@ exam 8
 
 31
 
+1. los angles
+2. london
+3. singalpore
+4. longon
+5. los angles
+6. true
+7. true
+8. not give -
+9. false
+10. false
+11. A
+12. D
+13. B -
+14. A -
+15. A -
+16. D, E
+17. adverrtisment space
+18. color scheme
+19. woman's exhibition
+20. false
+21. true
+22. false
+23. false
+24. not given
+25. true
+26. true
+27. informative
+28. D - 
+29. C
+30. C
+31. supervisoin
+32. productivily
+33. reduced
+34. leadership
+35. overstaffed
+36. cut pff
+37. a -
+38. D
+39. G
+40. A -
+
+33
+
+ielts 4 - one
+
+1. false
+2. false
+3. true
+4. false -
+5. false
+6. not given
+7. true
+8. not fiven
+9. C -
+10. E
+11. G
+12. P
+13. J
+14. B
+15. tase buds
+16. baleen specisa
+17. forward and downward
+18. freshwater dolphins
+19. tracking fying fish or underwater vision
+20. low frequeencies
+21. bowhead and humback
+22. 
+23. freashwater dolphins
+24. flying ish
+25. ckear opne waters
+26. acoustic sence
+27. B -
+28. A-
+29. A
+30. E
+31. A -
+32. D -
+33. associatiions -
+34. shapes
+35. hundred
+36. blind
+37. deep
+38. signted
+39. identical
+40 - B
+
+27
